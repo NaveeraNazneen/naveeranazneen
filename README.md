@@ -92,3 +92,130 @@
         font-family="Georgia, serif"
         font-size="11" fill="#6d28d9" opacity="0.7" letter-spacing="1">∇²ψ + k²ψ = 0</text>
 </svg>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
+
+<br/>
+
+<!-- LOGO — place logo.svg in root of this repo and it will show here -->
+<img src="logo.svg" alt="Naveera Nazneen" width="200"/>
+
+<br/><br/>
+
+# Naveera Nazneen
+### Experimental & Computational Physicist · App Developer · Future Space Agency Scientist
+
+<br/>
+
+[![Email](https://img.shields.io/badge/naveeranazneen21%40gmail.com-302b63?style=flat-square&logo=gmail&logoColor=white)](mailto:naveeranazneen21@gmail.com)
+[![GitHub](https://img.shields.io/badge/github.com/naveeranazneen-0f0c29?style=flat-square&logo=github&logoColor=white)](https://github.com/naveeranazneen)
+
+</div>
+
+---
+
+## About Me
+
+I am an experimental and computational physicist with a focus on nanomaterials, photocatalysis, and physics simulation.
+
+My research spans the synthesis and characterisation of advanced nanocomposites — including work on RGO–La₂O₃–SnO₂ ternary heterojunction photocatalysts — with hands-on expertise across XRD, UV-Vis, FTIR, and SEM/EDX characterisation.
+
+Outside the lab, I build and ship full-stack applications independently, integrating tools like the Anthropic Claude API as intelligent middleware to create smarter research tools and productivity software — I handle the architecture, code, configuration, and deployment end-to-end.
+
+My long-term goal is to contribute to space science and work at a space agency. Every project is a step in that direction.
+
+---
+
+## Experimental Physics
+
+I work at the interface of nanomaterials science and photophysics, with practical experience in:
+
+Synthesis and structural characterisation of ternary and binary heterojunction nanocomposite systems with engineered bandgap properties.
+
+XRD phase identification, crystallite size determination using the Scherrer equation, and Bragg's law analysis.
+
+UV-Vis spectroscopy and Tauc plot construction for optical bandgap extraction in semiconductor nanomaterials.
+
+Photocatalytic degradation kinetics — pseudo-first-order modelling for dye systems (methyl orange and related compounds) under UV and visible light.
+
+FTIR spectroscopy for functional group identification and surface chemistry analysis.
+
+SEM/EDX for morphology characterisation and elemental mapping.
+
+BET surface area analysis for porous and nanostructured materials.
+
+---
+
+## Computational Physics & Simulation
+
+I build physics simulations from first principles — translating differential equations and physical laws into working, quantitatively accurate computational models.
+
+I am advancing my expertise in COMSOL Multiphysics for finite element analysis across electromagnetic, thermal, fluid, and coupled multiphysics domains.
+
+I use LAMMPS (Large-scale Atomic/Massively Parallel Simulator) for molecular dynamics simulations, including interatomic potential setup, ensemble selection (NVT, NPT, NVE), thermostat/barostat configuration, and trajectory post-processing.
+
+My simulation work covers classical mechanics, thermodynamics, quantum systems, and electromagnetism — all implemented with physical rigour.
+
+---
+
+## Programming & Technical Stack
+
+**Languages**
+
+I write scientific and systems-level code in C++, Python, and MATLAB.
+
+In C++ I build physics engines, implement numerical integrators (Runge-Kutta 4, Velocity Verlet, Leapfrog), write finite difference solvers, and work at the performance layer where memory control matters.
+
+In Python I work with NumPy, SciPy, Matplotlib, Pandas, and SymPy for data pipelines, signal processing, symbolic computation, and simulation scripting. I also use Python to interface with APIs and build backend logic for applications.
+
+In MATLAB I handle matrix operations, system dynamics modelling, signal analysis, and rapid numerical prototyping.
+
+For web interfaces I write HTML, CSS, and JavaScript to build clean, functional frontends — including dashboards and interactive simulation visualisers.
+
+**Simulation & Modelling Tools**
+
+LAMMPS — atomistic molecular dynamics, force field configuration, DUMP file parsing and analysis.
+
+COMSOL Multiphysics — multiphysics FEA, parametric sweeps, mesh refinement, solver configuration.
+
+**App Development**
+
+I independently build and deploy full-stack web applications and research tools.
+
+I integrate AI APIs — including the Anthropic Claude API — as intelligent middleware: using model capabilities programmatically to power smarter tools while I handle all architecture, logic, deployment, and maintenance.
+
+GitHub Student Developer Pack — actively using the developer toolchain for version control, project management, and CI workflows.
+
+**Other Tools**
+
+Git & GitHub · LaTeX · Origin Pro · Mendeley · VSCode · Linux/Ubuntu
+
+---
+
+## Currently Building
+
+Physics simulations in C++ and Python modelling quantum and classical systems with real physical accuracy.
+
+COMSOL and LAMMPS workflows for nanomaterial characterisation and molecular dynamics.
+
+AI-powered research and productivity tools using the Anthropic Claude API as a backend intelligence layer.
+
+Expanding into computational astrophysics and orbital mechanics — feeding directly into the long game.
+
+---
+
+## The Long Game
+
+The end goal is space.
+
+Propulsion physics, spacecraft materials, mission simulation, remote sensing — the domain is open, the direction is fixed.
+
+Everything I build is part of that foundation.
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+<sub>naveeranazneen21@gmail.com · github.com/naveeranazneen</sub>
+</div>
