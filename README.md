@@ -1,9 +1,4 @@
-<!-- ===================================================== -->
-<!--                NAVEERA NAZNEEN README                 -->
-<!-- Elegant • Scientific • Builder • GitHub Compatible    -->
-<!-- ===================================================== -->
 
-<!-- HEADER -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:052e16,25:065f46,50:0f766e,72:1d4ed8,88:7f1d1d,100:10b981&text=Naveera%20Nazneen&fontSize=44&fontColor=f8fafc&fontAlignY=34&animation=fadeIn&desc=Physicist%20•%20Developer%20•%20Future%20Space%20Scientist&descAlignY=58&descSize=18" width="100%"/>
 </p>
