@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-7c2d12?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-b45309?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-065f46?style=for-the-badge&logo=latex&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-9a3412?style=for-the-badge&logo=jupyter&logoColor=white)
